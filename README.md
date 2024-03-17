@@ -13,7 +13,7 @@ De um tempo pra cá estou me desenvolvendo para uma vaga com dev. Gosto muito de
 ---
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=BDarde&show_icons=true&theme=dark" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BDarde&layout=compact&theme=dark" alt="languages" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=BDarde&show_icons=true&theme=dark" alt="my github stats" height="165" width="420" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BDarde&layout=compact&theme=dark" alt="languages" height="165">
 </p>
 
 
