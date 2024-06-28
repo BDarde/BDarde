@@ -7,7 +7,7 @@ Opa! Eu sou o Bruno Darde, sou um entusiasta da tecnologia desde pequeno.
 De um tempo pra cá estou me desenvolvendo para uma vaga com dev. Gosto muito de programação pois consigo me sentir imerso nas linhas de codigo, me satisfazendo a cada passo concluído. A sensação de ver um projeto completo e funcional é gratificante e reflete a motivação que irei ter trabalhando nesta área.
 
 
-- Estudo e faço desginer e estilizações de páginas em React.js e Back-end em JAVA e JavaScript;
+
 - Curso Analise e Desenvolvimento de Sistemas pela Uniasselvi;
 - Tenho uma boa base adquirida no Curso Técnico em informática, pelo Instito Federal.
 ---
