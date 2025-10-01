@@ -3,8 +3,7 @@
 <h1 align="left">Olá, visitante. Seja muito bem-vindo! ✨</h1>
 
 ###
-Opa! Eu sou o Bruno Darde, sou um entusiasta da tecnologia desde pequeno. 
-De um tempo pra cá estou me desenvolvendo para uma vaga com dev. Gosto muito de programação pois consigo me sentir imerso nas linhas de codigo, me satisfazendo a cada passo concluído. A sensação de ver um projeto completo e funcional é gratificante e reflete a motivação que irei ter trabalhando nesta área.
+Opa! Eu sou o Bruno Darde, sou um entusiasta da tecnologia desde pequeno.  Gosto muito de programação pois consigo me sentir imerso nas linhas de codigo, me satisfazendo a cada passo concluído. A sensação de ver um projeto completo e funcional é gratificante e reflete a motivação que irei ter trabalhando nesta área.
 
 
 
